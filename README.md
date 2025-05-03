@@ -4,7 +4,7 @@ This behavior pack saves player coordinates as scoreboard values and allows play
 
 ## Installing the pack:
 
-Download the current version on the [Releases Page](https://github.com/mittens4all/Lobby/releases/tag/v1.0.0)
+Download the current version on the [Releases Page](https://github.com/mittens4all/Lobby/releases)
 
 Add the Lobby Pack add-on to your behavior packs on your world. Behavior packs may disable achievements, but editing the world with an NBT editor can re-enable achievements when uploading your world to a realm.
 
