@@ -1,0 +1,43 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "v1.0.0 - Pack by Mittens4all - Players always spawn in the lobby and can teleport to where they last logged off.",
+        "name": "Lobby",
+        "uuid": "0bcc8c97-bdd7-4d52-b1c1-2688b6785c72",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 21, 70 ]
+    },
+    "modules": [
+        {
+            "description": "Behavior Pack",
+            "type": "data",
+            "uuid": "e49c12f7-f479-442e-b190-e1455f82071a",
+            "version": [ 1, 0, 0 ]
+        },
+        {
+            "description": "Scripts Module",
+            "type": "script",
+            "language": "javascript",
+            "uuid": "b9bf54fd-576c-4efc-bd04-20c2cc689196",
+            "entry": "scripts/main.js",
+            "version": [ 1, 0, 0 ]
+        }
+    ],
+    "dependencies": [ 
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.18.0"
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "mittens4all",
+            "ZheaEvyline",
+            "akiponggg0119",
+            "gobblecrow"
+        ],
+        "license": "MIT",
+        "url": "https://github.com/mittens4all/",
+        "product_type": "addon"
+    }
+}

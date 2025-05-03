@@ -1,0 +1,1 @@
+titleraw @a[scores={lobby=0}] actionbar {"rawtext":[{"text":"§l§6X§r: "}, {"score":{"name":"*","objective":"x.axis"}}, {"text":" §l§6Y§r: "}, {"score":{"name":"*","objective":"y.axis"}}, {"text":" §l§6Z§r: "}, {"score":{"name":"*","objective":"z.axis"}}]}
